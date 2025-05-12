@@ -1,8 +1,4 @@
-You’ve got the skeleton of a solid project write-up — clean and clear, but yeah, it’s giving "school project doc" instead of "🔥portfolio-level presentation." Let’s remix this into a punchier, more polished version that slaps *both technically and aesthetically*.
-
----
-
-## ☕ Coffee Shop Website — Brewed to Perfection
+### ☕ Coffee Shop Website — Brewed to Perfection
 
 ### 🚀 Overview
 
@@ -63,7 +59,7 @@ coffee-shop-website/
 1. **Clone the Repo:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone <(https://github.com/Chandan01097/Coca-Coffe/)>
    ```
 
 2. **Navigate to the Folder:**
