@@ -1,6 +1,6 @@
 ### ☕ Coffee Shop Website — Brewed to Perfection
 
-### 🚀 Overview
+### 🚀Overview
 
 Welcome to the digital aroma of our **Coffee Shop Website** — a sleek, responsive, and interactive front-end experience brewed using **HTML, CSS, and JavaScript**. Designed to charm caffeine lovers and casual browsers alike, this site offers a modern aesthetic and mobile-first functionality, ensuring users enjoy their journey from first sip to checkout.
 
